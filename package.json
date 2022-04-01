@@ -1,0 +1,25 @@
+{
+  "name": "@alexspirgel/object-manager",
+  "version": "1.0.0",
+  "author": "Alexander Spirgel",
+  "description": "An object wrapper that includes getting/setting, callbacks, and validation",
+  "keywords": [
+    "object",
+		"manager",
+		"merge",
+		"validation"
+  ],
+  "main": "object-manager.js",
+  "files": [
+    "object-manager.js"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexspirgel/object-manager.git"
+  },
+  "homepage": "https://github.com/alexspirgel/object-manager#readme",
+  "bugs": {
+    "url": "https://github.com/alexspirgel/object-manager/issues"
+  }
+}
